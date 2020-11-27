@@ -1,2 +1,2 @@
-# culturize-museabrugge
-CultURIze server config files for Musea Brugge.
+# CultURIze-based PURLs for the Musea Brugge
+Nginx server configuration files from CultURIze.
